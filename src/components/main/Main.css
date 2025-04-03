@@ -105,6 +105,7 @@ font-size: 17px;
 position: relative;
 left: -70px;
 gap: 10px;
+cursor: pointer;
 }
 
 .bottom-info
